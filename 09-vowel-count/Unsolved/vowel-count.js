@@ -21,3 +21,18 @@ var vowelCount = function (str) {
   // return count of vowels
   return count;
 };
+
+
+
+// example of the for ... of loop
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
+
+const array1 = ['a', 'b', 'c'];
+
+for (const element of array1) {
+  console.log(element);
+}
+
+// expected output: "a"
+// expected output: "b"
+// expected output: "c"
