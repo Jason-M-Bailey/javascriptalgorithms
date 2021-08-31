@@ -36,3 +36,6 @@ for (const element of array1) {
 // expected output: "a"
 // expected output: "b"
 // expected output: "c"
+
+// vowel count tutorial
+// https://www.freecodecamp.org/news/find-the-number-of-vowels-in-a-string-with-javascript/
